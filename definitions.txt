@@ -1,0 +1,12 @@
+#define TABLE_SIZE 60
+#define SHARK 10
+#define DOLPHIN 9
+#define TURTLE 8
+#define TUNA 7
+#define MULLET 6
+#define SARDINE 5
+#define OCTOPUS 4
+#define SHRIMP 3
+#define JELLYFISH 2
+#define ZOOPLANKTON 1
+#define PHYTOPLANKTON 0
